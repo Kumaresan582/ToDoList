@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "checked": false,
+        "item": "Buy groceries"
+    },
+    {
+        "id": 2,
+        "checked": true,
+        "item": "Pay electricity bill"
+    },
+    {
+        "id": 3,
+        "checked": false,
+        "item": "Call mom"
+    },
+    {
+        "id": 4,
+        "checked": false,
+        "item": "Schedule dentist appointment"
+    },
+    {
+        "id": 5,
+        "checked": true,
+        "item": "Finish report for work"
+    },
+    {
+        "id": 6,
+        "checked": false,
+        "item": "Go for a run"
+    },
+    {
+        "id": 7,
+        "checked": false,
+        "item": "Read a chapter of a book"
+    },
+    {
+        "id": 8,
+        "checked": false,
+        "item": "Start learning a new language"
+    },
+    {
+        "id": 9,
+        "checked": false,
+        "item": "Clean the house"
+    },
+    {
+        "id": 10,
+        "checked": true,
+        "item": "Attend meeting at 2 PM"
+    }
+]
